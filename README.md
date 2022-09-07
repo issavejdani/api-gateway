@@ -1,5 +1,16 @@
 # API gateway
- 
+
+- [Overview](#overview)
+- [What happens next?](#what-happens-next)
+- [What is an API gateway?](#what-is-an-api-gateway)
+- [Benefits of using an API gateway](#benefits-of-using-an-api-gateway)
+    - [Write once, use many times](#write-once-use-many-times)
+    - [Unique standard](#unique-standard)
+    - [Single authentication method](#single-authentication-method)
+    - [Caching](#caching)
+- [Conclusion](#conclusion)
+
+
 ## Overview
  
 Most successful software businesses are born as startups, with a few people working on a small product. In the beginning, everything is clear, simple, and easy to maintain and develop; they may not even have a physical office. However, the lucky ones can grow after a while by raising funds from VCs or angel investors. They get bigger and bigger. The product grows and turns into multiple products. They hire more and more people.
@@ -24,19 +35,19 @@ As you can see, each product or team can be either a service provider or a servi
  
 Using an API gateway has its pros and cons. Here in this document, we mention a few of the benefits of using an API gateway:
  
-### 1- Write once, use many times
+### Write once, use many times
  
 You can write one utility class, method, or library to integrate into the API gateway, so you do not need to implement code every time you integrate into each provider's API.
  
-### 2- Unique standard
+### Unique standard
  
 When it comes to exposing services using APIs or web services, each service provider can expose its services using various technologies and standards, so every time we need to consume a new service, we should develop a new time-consuming project. By implementing an API gateway, you can expose all services or APIs using a unique standard like RESTFUL. It acts as a converter among several APIs and web services.
  
-### 3- Single authentication method
+### Single authentication method
  
 You do not need to implement authentication methods per provider. You must implement the authentication method used in the API gateway once and for all.
  
-### 4- Caching
+### Caching
  
 To prevent extra bandwidth or speed up your services, you can implement caching inside an API gateway. There is no need to reach out to the API provider each time you have a request.
  
