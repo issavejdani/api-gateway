@@ -1,4 +1,4 @@
-# API gateway
+# What is an API gateway
 
 - [Overview](#overview)
 - [What happens next?](#what-happens-next)
