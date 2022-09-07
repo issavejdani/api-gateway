@@ -31,7 +31,7 @@ They are lucky to have all these services in the form of APIs and web services, 
  
 As you can see, each product or team can be either a service provider or a service consumer. The API gateway sits in between to help them efficiently and painlessly integrate with APIs and services in other products. In other words, a product can be a consumer of a service on another product and, at the same time producer of another service for other teams or products.
  
-# Benefits of using an API gateway
+## Benefits of using an API gateway
  
 Using an API gateway has its pros and cons. Here in this document, we mention a few of the benefits of using an API gateway:
  
