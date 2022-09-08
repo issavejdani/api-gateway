@@ -1,6 +1,5 @@
 # What is an API gateway?
 
-- [Overview](#overview)
 - [What happens next?](#what-happens-next)
 - [What is an API gateway?](#what-is-an-api-gateway)
 - [Benefits of using an API gateway](#benefits-of-using-an-api-gateway)
@@ -10,8 +9,6 @@
     - [Caching](#caching)
 - [Conclusion](#conclusion)
 
-
-## Overview
  
 Most successful software businesses are born as startups, with a few people working on a small product. In the beginning, everything is clear, simple, and easy to maintain and develop; they may not even have a physical office. However, the lucky ones can grow after a while by raising funds from VCs or angel investors. They get bigger and bigger. The product grows and turns into multiple products. They hire more and more people.
  
