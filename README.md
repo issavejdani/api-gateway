@@ -1,4 +1,4 @@
-# What is an API gateway?
+# API gateway
 
 - [The Story](#the-story)
 - [What happens next?](#what-happens-next)
