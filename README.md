@@ -1,5 +1,6 @@
 # What is an API gateway?
 
+- [The Story](#the-story)
 - [What happens next?](#what-happens-next)
 - [What is an API gateway?](#what-is-an-api-gateway)
 - [Benefits of using an API gateway](#benefits-of-using-an-api-gateway)
@@ -9,7 +10,7 @@
     - [Caching](#caching)
 - [Conclusion](#conclusion)
 
- 
+## The Story 
 Most successful software businesses are born as startups, with a few people working on a small product. In the beginning, everything is clear, simple, and easy to maintain and develop; they may not even have a physical office. However, the lucky ones can grow after a while by raising funds from VCs or angel investors. They get bigger and bigger. The product grows and turns into multiple products. They hire more and more people.
  
 A company with a few people and a single product can grow into a multi-department giant working on several projects simultaneously. Now they have a complex product that is both hard to maintain and develop. Adding a new feature would be a pain in the neck. The customers are not satisfied, the people in tech support are overloaded with support tickets, and the stakeholders are angry.
